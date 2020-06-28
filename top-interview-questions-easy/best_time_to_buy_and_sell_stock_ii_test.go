@@ -4,15 +4,15 @@ import (
 	"testing"
 )
 
-type testData struct {
+type priceData struct {
 	prices []int
 	result int
 }
 
-var testDataList []testData
+var testDataList []priceData
 
 func init() {
-	testDataList = []testData{
+	testDataList = []priceData{
 		{[]int{}, 0},
 		{[]int{7, 1, 5, 3, 6, 4}, 7},
 		{[]int{1, 2, 3, 4, 5}, 4},
