@@ -1,4 +1,4 @@
-package main
+package june_leetcoding_challenge
 
 import "testing"
 
