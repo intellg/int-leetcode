@@ -1,4 +1,4 @@
-package june_leetcoding_challenge
+package invert_binary_tree
 
 import "testing"
 

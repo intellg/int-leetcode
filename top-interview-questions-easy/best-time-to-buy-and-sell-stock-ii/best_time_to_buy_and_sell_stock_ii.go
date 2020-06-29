@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/564/
-package top_interview_questions_easy
+package best_time_to_buy_and_sell_stock_ii
 
 import "fmt"
 

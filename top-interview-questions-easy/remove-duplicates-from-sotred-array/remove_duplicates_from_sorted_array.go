@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/
-package top_interview_questions_easy
+package remove_duplicates_from_sotred_array
 
 func removeDuplicates(nums []int) int {
 	if len(nums) == 0 {

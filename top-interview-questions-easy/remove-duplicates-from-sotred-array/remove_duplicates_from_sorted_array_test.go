@@ -1,4 +1,4 @@
-package top_interview_questions_easy
+package remove_duplicates_from_sotred_array
 
 import "testing"
 

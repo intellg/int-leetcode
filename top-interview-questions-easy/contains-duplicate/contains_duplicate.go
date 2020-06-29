@@ -1,5 +1,5 @@
 // https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/578/
-package top_interview_questions_easy
+package contains_duplicate
 
 func containsDuplicate(nums []int) bool {
 	keys := make(map[int]int)
